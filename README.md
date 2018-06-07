@@ -1,2 +1,2 @@
-# mw-info-site
+# mikewatt.info portfolio site
 mikewatt.info
